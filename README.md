@@ -75,7 +75,6 @@ This project allowed me to practice transforming highly detailed corporate ESG r
 **Created by:** Lizbeth Macias  
 Feel free to connect or explore more of my work on GitHub.
 
-**INSERT_YOUR_PDF_LINK_HERE**  
-*(After uploading your PDF, copy the file URL and paste it above.)*
+**https://github.com/lmaci0079/intel-corporate-responsibility-case-study/blob/974031ec11b9f1f3d8c9cceb35e27df32d54951b/_Intel%E2%80%99s%20Corporate%20Responsibility%20Report%20(2).pdf**
 
 ---
