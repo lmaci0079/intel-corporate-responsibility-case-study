@@ -72,7 +72,7 @@ This project allowed me to practice transforming highly detailed corporate ESG r
 ---
 
 ## 📬 Contact  
-**Created by:** Lizbeth Macias-Suarez  
+**Created by:** Lizbeth Macias  
 Feel free to connect or explore more of my work on GitHub.
 
 **INSERT_YOUR_PDF_LINK_HERE**  
