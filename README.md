@@ -49,7 +49,8 @@ The full slide presentation includes:
 - Concise summaries of corporate responsibility achievements  
 - A clean and consistent narrative structure  
 
-👉 **View the full presentation:**  
+👉 **[View the full slide deck (PDF)](https://github.com/lmaci0079/intel-corporate-responsibility-case-study/blob/974031ec11b9f1f3d8c9cceb35e27df32d54951b/_Intel%E2%80%99s%20Corporate%20Responsibility%20Report%20(2).pdf)**  
+*(After you upload the PDF, GitHub will give you the file link. Replace INSERT_LINK_HERE with that link.)* 
 
 ## ✨ Skills Demonstrated  
 - Visual storytelling  
@@ -75,6 +76,5 @@ This project allowed me to practice transforming highly detailed corporate ESG r
 **Created by:** Lizbeth Macias  
 Feel free to connect or explore more of my work on GitHub.
 
-**https://github.com/lmaci0079/intel-corporate-responsibility-case-study/blob/974031ec11b9f1f3d8c9cceb35e27df32d54951b/_Intel%E2%80%99s%20Corporate%20Responsibility%20Report%20(2).pdf**
 
 ---
